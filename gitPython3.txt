@@ -1,0 +1,13 @@
+https://github.com/dmngit/python3.git
+
+echo "# python3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dmngit/python3.git
+git push -u origin master
+
+git remote add origin https://github.com/dmngit/python3.git
+git push -u origin master
+
+git clone https://github.com/dmngit/python3.git
